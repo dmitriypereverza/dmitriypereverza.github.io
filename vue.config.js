@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: 'vue-mind-trainer',
+    publicPath: '/vue-mind-trainer/',
     devServer: {
         overlay: {
             warnings: true,
